@@ -1,3 +1,3 @@
 # Trabalhos_Python
 
-Vou começar a postar meus trabalhos de programação script em Phyton.
+Alguns dos códigos dos trabalhos referentes à disciplina de Programação Script no primeiro período de curso de Engenharia da Computação na Universidade Federal de Uberlândia.
