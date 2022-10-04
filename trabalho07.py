@@ -1,3 +1,7 @@
+#Guilherme Saad Botrel
+#12121ECP018
+
+
 def main():
     dna, primer, lig = input(), input(), []
     primer = troca(primer).upper()
